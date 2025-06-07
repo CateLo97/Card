@@ -19,7 +19,7 @@ main{
     padding: 1.5rem;
 }
 .card{
-    max-width: 375px;
+    max-width: 24rem;
     height: auto;
     display: flex;
     flex-direction: column;
